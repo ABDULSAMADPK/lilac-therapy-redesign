@@ -55,8 +55,3 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ---
 
-### 📝 Submission Note
-This project was completed as part of a creative thinking and technical redesign test. It demonstrates the ability to extract professional profiles and translate them into a high-converting, aesthetically premium digital presence.
-=======
-# lilac-therapy-redesign
->>>>>>> origin/main
