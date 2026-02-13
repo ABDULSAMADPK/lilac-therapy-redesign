@@ -1,63 +1,63 @@
-# Dr. Maya Reynolds, PsyD — Clinical Psychologist Website
+# Dr. Maya Reynolds, PsyD - Clinical Website Redesign
 
-A calm, grounded, and professional website redesign for Dr. Maya Reynolds, a clinical psychologist based in Santa Monica. This project transforms the "Lilac" template into a custom, high-end digital practice that fosters trust and accessibility.
+A premium, high-end clinical website redesigned for **Dr. Maya Reynolds, PsyD**, a licensed clinical psychologist in Santa Monica. This project transforms a generic therapy template into a professional, evidence-based "clinical sanctuary" tailored for high-achieving adults.
 
-## 🌿 The Aesthetic: "Sage & Sand"
-- **Color Palette**: A grounding mix of Muted Sage (`#73877B`), Warm Sand (`#EBE7E0`), and Terracotta (`#C08552`).
-- **Typography**: **Cormorant Garamond** (Serif) for compassionate authority, paired with **Montserrat** (Sans) for modern clarity.
-- **Philosophy**: "Balance & Calm" — moving away from generic clinical vibes to a warm, sanctuary-like digital space.
+![Project Preview](/images/hero.png)
 
-## 🚀 Tech Stack
-- **Framework**: [Next.js 15+](https://nextjs.org/) (App Router)
-- **Styling**: [Tailwind CSS v4](https://tailwindcss.com/)
-- **Animations**: [Framer Motion](https://www.framer.com/motion/)
-- **Icons**: [Lucide React](https://lucide.dev/)
-- **Fonts**: [Google Fonts](https://fonts.google.com/) (Cormorant Garamond & Montserrat)
+## 🎨 Theme: Driftwood & Indigo
+The site features a custom-designed aesthetic titled **"Driftwood & Indigo"**:
+- **Indigo (#3B4B5A)**: Used as the primary color to signal stability, clinical authority, and depth.
+- **Driftwood (#F7F3F0)**: A warm, oatmeal-toned background that brings in the natural, grounding light of the Santa Monica coast.
+- **Muted Bronze (#A68A64)**: An accent color used for subtle highlights and call-to-actions.
+
+### Typography
+- **Fraunces**: A soft, elegant serif font for headings that balances clinical expertise with human empathy.
+- **Outfit**: A modern, geometric sans-serif for body text, ensuring maximum readability for high-performing professionals.
 
 ## ✨ Key Features
-- **Profile-Driven Content**: Every word is tailored to Dr. Maya's specific expertise (Anxiety, Trauma, Burnout).
-- **"Our Office" Section**: A dedicated visual tour of the Santa Monica practice to lower the barrier to entry for new clients.
-- **Consultation Workflow**: A specialized intake form that replaces the generic contact page, asking relevant clinical questions to streamline the booking process.
-- **Responsive Design**: Mobile-first architecture ensuring the site is accessible for high-achieving professionals on the go.
+- **SEO Optimized**: Headers and copy are specifically tailored for "Clinical Psychologist in Santa Monica" and keywords like "EMDR," "Trauma," and "High-Achiever Burnout."
+- **Profile Integration**: All content is 100% derived from Dr. Maya Reynolds' professional Psychology Today profile, including her PsyD credentials and collaborative approach.
+- **"Our Office" Section**: A custom-built section highlighting the physical practice space using a balanced two-column layout and glassmorphic location details.
+- **Responsive Design**: Fully optimized for seamless mobile viewing, reflecting the needs of clients who may be searching for support while on the go.
+- **Interactive UI**: Fluid animations powered by `framer-motion` to create a calm, engaging user experience.
 
-## 📁 Project Structure
-```text
-lilac-clone/
-├── src/
-│   ├── app/                # Next.js Core
-│   │   ├── globals.css     # "Sage & Sand" Design Tokens
-│   │   ├── layout.tsx      # Font & Metadata Configuration
-│   │   └── page.tsx        # Homepage Assembly
-│   └── components/         # Reusable UI Blocks (PascalCase)
-│       ├── Header.tsx      # Navigation
-│       ├── Hero.tsx        # "Find Balance & Calm" Intro
-│       ├── Services.tsx    # Anxiety, Trauma, Burnout
-│       ├── About.tsx       # Dr. Maya's Bio
-│       ├── Office.tsx      # Location & Environment
-│       ├── Consultation.tsx # Intake Form
-│       └── Footer.tsx      # Contact Info
-└── public/
-    └── images/             # Optimized Assets (Real & Generated)
-```
+## 🛠️ Tech Stack
+- **Framework**: [Next.js 15](https://nextjs.org/) (App Router)
+- **Styling**: [Tailwind CSS 4](https://tailwindcss.com/)
+- **Animations**: [Framer Motion](https://www.framer.com/motion/)
+- **Icons**: [Lucide React](https://lucide.dev/)
+- **Language**: [TypeScript](https://www.typescriptlang.org/)
 
-## 🛠️ Getting Started
+## 🚀 Getting Started
 
-### 1. Prerequisites
-- Node.js 18.x or later
+### Prerequisites
+- Node.js 18.x or higher
 - npm or yarn
 
-### 2. Installation
-```bash
-git clone <your-repo-link>
-cd lilac-clone
-npm install
-```
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/lilac-therapy-redesign.git
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-### 3. Run Locally
+### Running Locally
+Run the development server:
 ```bash
 npm run dev
 ```
-Open [http://localhost:3000](http://localhost:3000) to view the site.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## 📄 License
-Privately developed for Dr. Maya Reynolds. All rights reserved.
+## 📦 Deployment
+The easiest way to deploy this project is via [Vercel](https://vercel.com/new):
+1. Push your code to GitHub.
+2. Import the project into Vercel.
+3. Vercel will automatically detect Next.js and deploy your site.
+
+---
+
+### 📝 Submission Note
+This project was completed as part of a creative thinking and technical redesign test. It demonstrates the ability to extract professional profiles and translate them into a high-converting, aesthetically premium digital presence.
