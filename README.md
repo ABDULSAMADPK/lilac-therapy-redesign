@@ -51,11 +51,6 @@ npm run dev
 ```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## 📦 Deployment
-The easiest way to deploy this project is via [Vercel](https://vercel.com/new):
-1. Push your code to GitHub.
-2. Import the project into Vercel.
-3. Vercel will automatically detect Next.js and deploy your site.
 
 ---
 
