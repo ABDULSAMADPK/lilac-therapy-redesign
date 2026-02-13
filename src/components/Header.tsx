@@ -16,7 +16,13 @@ export default function Header() {
     return (
         <header className="fixed top-0 left-0 right-0 z-50 bg-[var(--color-background)]/90 backdrop-blur-md border-b border-[var(--color-primary-light)]/20 shadow-sm">
             <nav className="container mx-auto px-6 py-5 flex justify-between items-center">
-                <a href="/" className="text-2xl font-serif font-bold tracking-tight text-[var(--color-primary)]">
+                <a
+                    href="/"
+                    onClick={() => {
+                        window.location.href = "/";
+                    }}
+                    className="text-2xl font-serif font-bold tracking-tight text-[var(--color-primary)] hover:opacity-80 transition-opacity"
+                >
                     Dr. Maya Reynolds<span className="text-[var(--color-foreground)]/40">, PsyD</span>
                 </a>
 
