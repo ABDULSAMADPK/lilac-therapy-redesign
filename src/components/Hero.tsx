@@ -7,7 +7,7 @@ import { motion } from "framer-motion";
 
 export default function Hero() {
     return (
-        <section className="relative w-full min-h-screen pt-20 flex items-center justify-center overflow-hidden bg-[var(--color-secondary)] border-t border-[var(--color-primary-light)]/20">
+        <section id="hero" className="relative w-full min-h-screen pt-20 flex items-center justify-center overflow-hidden bg-[var(--color-secondary)] border-t border-[var(--color-primary-light)]/20">
             {/* Background Image */}
             <div className="absolute inset-0 z-0">
                 <Image
