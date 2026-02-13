@@ -69,14 +69,7 @@ export default function Header() {
                         </Link>
                     ))}
 
-                    <div className="pt-8 space-y-4 border-t border-[var(--color-foreground)]/5">
-                        <a href="mailto:hello@drmayareynolds.com" className="block text-lg text-[var(--color-foreground)]/70">
-                            hello@drmayareynolds.com
-                        </a>
-                        <a href="tel:+15551234567" className="block text-lg text-[var(--color-foreground)]/70">
-                            +1 (555) 123-4567
-                        </a>
-                    </div>
+
 
                     <Link
                         href="#contact"
