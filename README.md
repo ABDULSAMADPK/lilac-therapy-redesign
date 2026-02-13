@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The Reynolds Practice - Clinical Redesign (Dr. Maya Reynolds)
 
 A premium, high-end clinical website redesigned for **Dr. Maya Reynolds, PsyD**, a licensed clinical psychologist in Santa Monica. This project transforms a generic therapy template into a professional, evidence-based "clinical sanctuary" tailored for high-achieving adults.
@@ -56,3 +57,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ### 📝 Submission Note
 This project was completed as part of a creative thinking and technical redesign test. It demonstrates the ability to extract professional profiles and translate them into a high-converting, aesthetically premium digital presence.
+=======
+# lilac-therapy-redesign
+>>>>>>> origin/main
