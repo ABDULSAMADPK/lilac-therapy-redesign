@@ -1,4 +1,4 @@
-# Dr. Maya Reynolds, PsyD - Clinical Website Redesign
+# The Reynolds Practice - Clinical Redesign (Dr. Maya Reynolds)
 
 A premium, high-end clinical website redesigned for **Dr. Maya Reynolds, PsyD**, a licensed clinical psychologist in Santa Monica. This project transforms a generic therapy template into a professional, evidence-based "clinical sanctuary" tailored for high-achieving adults.
 

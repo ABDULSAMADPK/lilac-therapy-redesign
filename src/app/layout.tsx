@@ -15,7 +15,7 @@ const fraunces = Fraunces({
 });
 
 export const metadata: Metadata = {
-  title: "Dr. Maya Reynolds, PsyD | Clinical Psychologist Santa Monica | Anxiety & Trauma",
+  title: "The Reynolds Practice | Dr. Maya Reynolds, PsyD | Clinical Psychologist Santa Monica",
   description: "Specialized evidence-based therapy for high-achieving adults in Santa Monica. Dr. Maya Reynolds, PsyD, focuses on resilience, anxiety treatment, and EMDR.",
   icons: {
     icon: "/icon.svg",
